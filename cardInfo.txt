@@ -1,0 +1,45 @@
+id0 Monster Blue-Eyes_White_Dragon 3000 2500 Dragon 8
+id1 Monster Seiyaryu 2500 2300 Dragon 7
+id2 Monster Blue-Eyes_Ultimate_Dragon 4500 3800 Dragon 12
+id3 Monster Kaiser_Dragon 2300 2000 Dragon 7
+id4 Monster Blackland_Fire_Dragon 1500 800 Dragon 4
+id5 Monster Kouomri_Dragon 1500 1200 Dragon 4
+id6 Monster Curse_of_Dragon 2000 1500 Dragon 5
+id7 Monster Red-Eyes_Black_Dragon 2400 2000 Dragon 7
+id8 Monster Darkfire_Dragon 1500 1250 Dragon 4
+id9 Monster Black_Skull_Dragon 3200 2500 Dragon 9
+id10 Monster Tri-Horned_Dragon 2850 2350 Dragon 8
+id11 Monster Serpent_Night_Dragon 2350 2400 Dragon 7
+id12 Monster Mikazukinoyaiba 2200 2350 Dragon 7
+id13 Monster Yamadron 1600 1800 Dragon 5
+id14 Monster Meteor_Black_Dragon 3500 2000 Dragon 8
+id15 Monster Tyhone_#2 1700 1900 Dragon 6
+id16 Monster Ryu-Ran 2200 2600 Dragon 7
+id17 Monster Manga_Ryu-Ran 2200 2600 Dragon 7
+id18 Monster Crawling_Dragon 1600 1400 Dragon 5
+id19 Monster Meteor_Dragon 1800 2000 Dragon 6
+id20 Monster Black_Dragon_Jungle_King 2100 1800 Dragon 6
+id21 Monster Baby_Dragon 1200 700 Dragon 3
+id22 Monster Winged_Dragon_Guardian_OTF 1400 1200 Dragon 4
+id23 Monster Gaia_the_Dragon_Champion 2600 2100 Dragon 7
+id24 Monster Thousand_Dragon 2400 2000 Dragon 7
+id25 Monster Yamatano_Dragon_Scroll 900 300 Dragon 2
+id26 Monster Petit_Dragon 600 700 Dragon 2
+id27 Monster One-Eyed_Shield_Dragon 700 1300 Dragon 3
+id28 Monster Wicked_Dragon_w_Ersatz_Head 900 900 Dragon 3
+id29 Monster Parrot_Dragon 2000 1300 Dragon 5
+id30 Monster Harpie's_Pet_Dragon 2000 2500 Dragon 7
+id31 Monster Sky_Dragon 1900 1800 Dragon 6
+id32 Monster Lesser_Dragon 1200 1000 Dragon 4
+id33 Monster Fairy_Dragon 1100 1200 Dragon 4
+id34 Monster Twin-Headed_Behemoth 1500 1200 Dragon 4
+id60 Monster Dark_Magician 2500 2000 Spellcaster 7
+id689 Magic Forest False
+id690 Magic Wasteland False
+id691 Magic Mountain False
+id692 Magic Sogen False
+id693 Magic Umi Flase
+id694 Magic Yami False
+id695 Magic Toon_World False
+id696 Magic Burning_Land False
+
